@@ -9,16 +9,14 @@ This repository serves as a platform for creating interactive web visualizations
 #### `index.html`
 
 - The `index.html` file is the main HTML document that defines the structure of the web page. It contains placeholders for charts, dropdowns, and demographic information.
-- [html link:]<br>
-https://github.com/MahsaNafei/belly-button-challenge/blob/main/index.html<br>
+- [html link:](https://github.com/MahsaNafei/belly-button-challenge/blob/main/index.html)
 
 
 #### `app.js`
 
 - The `app.js` file is the primary JavaScript script responsible for fetching and processing data, as well as creating and updating visualizations. It utilizes the D3.js library for data loading and manipulation.
 - The file contains functions such as `BarChart`, `BubbleChart`, `DemographicInfo`, `GaugeChart`, `init`, and `optionChanged` to handle different aspects of data visualization and user interaction.
-- [Javascript Code:]<br>
-(https://github.com/MahsaNafei/belly-button-challenge/blob/main/static/js/app.js)
+- [Javascript Code:](https://github.com/MahsaNafei/belly-button-challenge/blob/main/static/js/app.js)
 
 #### Visualizations
 
@@ -51,8 +49,7 @@ https://github.com/MahsaNafei/belly-button-challenge/blob/main/index.html<br>
 - The `init` function initializes the dropdown menu with sample names and calls other functions to populate visualizations and demographic information based on the selected sample.
 - The `optionChanged` function is triggered when the user selects a different sample from the dropdown. It fetches and updates the visualizations accordingly.
 
-- Dashboard Link :<br>
-[Dashboard Link](https://github.com/MahsaNafei/belly-button-challenge)
+- [Dashboard Link](https://github.com/MahsaNafei/belly-button-challenge)
 <img src="" style="widt:500px; height:500px">
 
 
@@ -61,8 +58,7 @@ https://github.com/MahsaNafei/belly-button-challenge/blob/main/index.html<br>
 
 - Data is dynamically fetched from an external JSON file using D3.json().
 - The provided URL points to the `samples.json` file, which contains the necessary data for generating the visualizations.
-- Samples JSON file:
-(https://github.com/MahsaNafei/belly-button-challenge/blob/main/samples.json)
+- [Samples JSON file:](https://github.com/MahsaNafei/belly-button-challenge/blob/main/samples.json)
 
 ### Dataset Information
 
