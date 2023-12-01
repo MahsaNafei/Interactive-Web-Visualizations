@@ -18,7 +18,7 @@ This repository serves as a platform for creating interactive web visualizations
 - The file contains functions such as `BarChart`, `BubbleChart`, `DemographicInfo`, `GaugeChart`, `init`, and `optionChanged` to handle different aspects of data visualization and user interaction.
 - [Javascript Code](https://github.com/MahsaNafei/belly-button-challenge/blob/main/static/js/app.js)
 
-#### Visualizations
+### Visualizations
 
 ##### Bar Chart (`BarChart` function)
 
