@@ -49,7 +49,7 @@ This repository serves as a platform for creating interactive web visualizations
 - The `init` function initializes the dropdown menu with sample names and calls other functions to populate visualizations and demographic information based on the selected sample.
 - The `optionChanged` function is triggered when the user selects a different sample from the dropdown. It fetches and updates the visualizations accordingly.
 
-- [Dashboard Link](https://github.com/MahsaNafei/belly-button-challenge)
+- [Dashboard Link](https://MahsaNafei.github.io/belly-button-challenge)
 <img src="https://github.com/MahsaNafei/belly-button-challenge/blob/main/images/page_screenshot.png" style="widt:500px; height:500px">
 
 
