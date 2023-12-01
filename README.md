@@ -9,15 +9,15 @@ This repository serves as a platform for creating interactive web visualizations
 #### `index.html`
 
 - The `index.html` file is the main HTML document that defines the structure of the web page. It contains placeholders for charts, dropdowns, and demographic information.
-- html link:<br>
+- [html link:]<br>
 https://github.com/MahsaNafei/belly-button-challenge/blob/main/index.html<br>
-<br>
+
 
 #### `app.js`
 
 - The `app.js` file is the primary JavaScript script responsible for fetching and processing data, as well as creating and updating visualizations. It utilizes the D3.js library for data loading and manipulation.
 - The file contains functions such as `BarChart`, `BubbleChart`, `DemographicInfo`, `GaugeChart`, `init`, and `optionChanged` to handle different aspects of data visualization and user interaction.
-- Javascript Code:
+- [Javascript Code:]<br>
 (https://github.com/MahsaNafei/belly-button-challenge/blob/main/static/js/app.js)
 
 #### Visualizations
@@ -52,9 +52,10 @@ https://github.com/MahsaNafei/belly-button-challenge/blob/main/index.html<br>
 - The `optionChanged` function is triggered when the user selects a different sample from the dropdown. It fetches and updates the visualizations accordingly.
 
 - Dashboard Link :<br>
-<img src="https://user-images.githubusercontent.com/109693942/212280370-2b65c121-3f68-48d4-8c9b-ec6740b5aca9.png" style="widt:500px; height:500px">
+[Dashboard Link](https://github.com/MahsaNafei/belly-button-challenge)
+<img src="" style="widt:500px; height:500px">
 
-[Link](https://github.com/MahsaNafei/belly-button-challenge)
+
 
 ### Data Source
 
