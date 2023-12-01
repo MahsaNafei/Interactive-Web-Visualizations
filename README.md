@@ -9,11 +9,16 @@ This repository serves as a platform for creating interactive web visualizations
 #### `index.html`
 
 - The `index.html` file is the main HTML document that defines the structure of the web page. It contains placeholders for charts, dropdowns, and demographic information.
+- html link:<br>
+https://github.com/MahsaNafei/belly-button-challenge/blob/main/index.html<br>
+<br>
 
 #### `app.js`
 
 - The `app.js` file is the primary JavaScript script responsible for fetching and processing data, as well as creating and updating visualizations. It utilizes the D3.js library for data loading and manipulation.
 - The file contains functions such as `BarChart`, `BubbleChart`, `DemographicInfo`, `GaugeChart`, `init`, and `optionChanged` to handle different aspects of data visualization and user interaction.
+- Javascript Code:
+(https://github.com/MahsaNafei/belly-button-challenge/blob/main/static/js/app.js)
 
 #### Visualizations
 
@@ -46,10 +51,17 @@ This repository serves as a platform for creating interactive web visualizations
 - The `init` function initializes the dropdown menu with sample names and calls other functions to populate visualizations and demographic information based on the selected sample.
 - The `optionChanged` function is triggered when the user selects a different sample from the dropdown. It fetches and updates the visualizations accordingly.
 
+- Dashboard Link :<br>
+<img src="https://user-images.githubusercontent.com/109693942/212280370-2b65c121-3f68-48d4-8c9b-ec6740b5aca9.png" style="widt:500px; height:500px">
+
+[Link](https://github.com/MahsaNafei/belly-button-challenge)
+
 ### Data Source
 
 - Data is dynamically fetched from an external JSON file using D3.json().
 - The provided URL points to the `samples.json` file, which contains the necessary data for generating the visualizations.
+- Samples JSON file:
+(https://github.com/MahsaNafei/belly-button-challenge/blob/main/samples.json)
 
 ### Dataset Information
 
