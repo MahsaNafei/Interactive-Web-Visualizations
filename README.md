@@ -50,7 +50,7 @@ This repository serves as a platform for creating interactive web visualizations
 - The `optionChanged` function is triggered when the user selects a different sample from the dropdown. It fetches and updates the visualizations accordingly.
 
 - [Dashboard Link](https://github.com/MahsaNafei/belly-button-challenge)
-<img src="" style="widt:500px; height:500px">
+<img src="https://github.com/MahsaNafei/belly-button-challenge/blob/main/images/page_screenshot.png" style="widt:500px; height:500px">
 
 
 
