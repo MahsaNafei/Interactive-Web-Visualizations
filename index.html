@@ -23,6 +23,8 @@
         <div class="well">
           <h5>Test Subject ID No.:</h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          <br></br>
+          <button onclick="capturePage()">Screen Capture</button>
         </div>
         <div class="panel panel-primary">
           <div class="panel-heading">
@@ -44,6 +46,8 @@
       </div>
     </div>
   </div>
+  <!-- Capture page -->
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
 
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

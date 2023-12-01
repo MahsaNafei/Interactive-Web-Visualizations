@@ -181,6 +181,17 @@ function optionChanged(newSampleId){
   });
 }
 
+function capturePage() {
+  // Capture the entire page
+  html2canvas(document.body).then(function(canvas) {
+    // Create a temporary link and trigger a click to download the image
+    var link = document.createElement('a');
+    link.href = canvas.toDataURL('image/png');
+    link.download = 'page_screenshot.png';
+    link.click();
+  });
+}
+
 // Initializing the visualizations when the page loads
 init();
 
